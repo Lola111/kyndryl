@@ -10,7 +10,7 @@ Added needed dependencies and plugins to Maven.
 
 The code can be run for different flight destinations (airport code should be 
 provided as an argument) on different dates (until end of May) with different number of
-travellers and bag types. To change the 
+travellers and bag types. To change the travel info details check the feature files.
 
 The code takes screenshot after each run in test-output folder.
 
