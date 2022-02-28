@@ -1,4 +1,5 @@
 --project title--
+
 kyndrl
 
 --project description--
@@ -16,6 +17,7 @@ The code takes screenshot after each run in test-output folder.
 Detailed Cucumber report can be generated inside Targets folder when it is run through Maven verify.
 
 --how to use the project--
+
 Project can be cloned and run in your IDE. 
 All the dependencies and plugins are included. 
 
